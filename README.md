@@ -42,4 +42,4 @@ Vulnerability #2:
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Trying to find all the vulnerabilities were hard, but it was overall a very fun assignment to do.
